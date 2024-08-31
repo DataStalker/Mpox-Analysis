@@ -354,7 +354,4 @@ ggplot(df, aes(x = new_cases_smoothed_per_million, y = new_deaths_smoothed_per_m
 
 The final scatter plot shows the relationship between smoothed new
 monkeypox cases and smoothed new deaths per million population, using a
-color gradient and a minimalist theme. \`\`\`
-
-This R Markdown document converts your R script into a structured report
-with explanations and enhanced plot aesthetics.
+color gradient and a minimalist theme.
